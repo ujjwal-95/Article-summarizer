@@ -1,5 +1,5 @@
 
-**# Article Summarizer
+## Article Summarizer
 
 A simple web app that allows users to summarize articles by providing a URL. This project leverages the article-extractor-and-summarizer API from RapidAPI.
 
