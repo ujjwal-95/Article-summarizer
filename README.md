@@ -23,7 +23,7 @@ A simple web app that allows users to summarize articles by providing a URL. Thi
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/Article-Summarizer.git
-   cd spotify-song-downloader
+   cd Article-Summarizer
 
 
 2.Install the dependencies:
